@@ -1,0 +1,1 @@
+//write logic to configure passport js auth and use google to authenticate the user
