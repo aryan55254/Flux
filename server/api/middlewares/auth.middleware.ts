@@ -1,1 +1,0 @@
-//authentication middleware basically will call the passport js built in middleware and exported to use in routes

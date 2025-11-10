@@ -1,1 +1,0 @@
-//write a logic to conenct to rdis and export it 

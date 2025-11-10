@@ -1,1 +1,0 @@
-//logi for all image processes

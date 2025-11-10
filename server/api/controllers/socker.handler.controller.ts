@@ -1,1 +1,0 @@
-//write logic of how websockets will communicate and authneticating websockets using the socket io middleware thing which will use passport js 

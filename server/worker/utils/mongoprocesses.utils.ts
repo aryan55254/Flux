@@ -1,1 +1,0 @@
-//mongo write ups logic
